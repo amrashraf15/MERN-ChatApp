@@ -60,4 +60,25 @@ A full-stack real-time chat application built with MERN, Socket.io, TailwindCSS,
 - ![zustand](https://img.shields.io/badge/Zustand-252525?style=for-the-badge&logo=zod)
 
 ---
+## 📘 API Endpoints
+
+### 🔐 Authentication Routes
+
+| Method | Endpoint          | Description                      | Protected | Controller Function |
+|--------|-------------------|----------------------------------|-----------|---------------------|
+| POST   | `/signup`         | Register a new user              | No        | `signup`            |
+| POST   | `/login`          | Log in an existing user          | No        | `login`             |
+| POST   | `/logout`         | Log out the current user         | No        | `logout`            |
+| PUT    | `/update-profile` | Update the user profile          | Yes       | `updateProfile`     |
+| GET    | `/check`          | Check user authentication status | Yes       | `checkAuth`         |
+
+### 💬 Messaging Routes
+
+| Method | Endpoint       | Description                              | Protected | Controller Function    |
+|--------|----------------|------------------------------------------|-----------|------------------------|
+| GET    | `/users`       | Get users for sidebar display            | Yes       | `getUsersForSidebar`   |
+| GET    | `/:id`         | Get messages for conversation with user  | Yes       | `getMessages`          |
+| POST   | `/send/:id`    | Send a message to a user by ID           | Yes       | `sendMessage`          |
+
+---
 
