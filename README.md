@@ -82,3 +82,39 @@ A full-stack real-time chat application built with MERN, Socket.io, TailwindCSS,
 
 ---
 
+## 🧭 Project Structure
+```C++
+MERN-CHATAPP/
+├── backend/
+│ ├── node_modules/
+│ ├── src/
+│ │ ├── controllers/
+│ │ ├── lib/
+│ │ ├── middleware/
+│ │ ├── models/
+│ │ └── server.js
+│ ├── .env
+│ ├── package.json
+│ └── package-lock.json
+├── frontend/
+│ ├── node_modules/
+│ ├── public/
+│ └── src/
+│ ├── assets/
+│ ├── components/
+│ ├── constants/
+│ ├── lib/
+│ ├── pages/
+│ ├── store/
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── .gitignore
+```
+---
+
+
+
+
+
+
