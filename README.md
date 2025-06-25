@@ -26,7 +26,7 @@ A sleek, full-stack note-taking application built with MongoDB, Express, React, 
 ---
 ## 📖 Overview
 
-ZenNote is a responsive web app enabling CRUD (Create, Read, Update, Delete) for notes. It combines:
+A full-stack real-time chat application built with MERN, Socket.io, TailwindCSS, and Zustand. Features include JWT authentication, real-time messaging, online user tracking, global state management, and full error handling. Deployed for free with professional setup.
 
 - **Express.js** backend with MongoDB via Mongoose  
 - **React** frontend styled with Tailwind CSS (DaisyUI)  
