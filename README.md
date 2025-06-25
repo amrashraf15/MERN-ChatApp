@@ -113,6 +113,43 @@ MERN-CHATAPP/
 ```
 ---
 
+## ⚙️ Installation
+
+### 1. Clone the Repository
+   ```sh
+   git clone https://github.com/amrashraf15/MERN-AUTH.git
+    cd MERN-AUTH
+   ```
+2. Install Backend Dependencies
+   ```sh
+   cd backend
+    npm install
+   ```
+3. Set Up Environment Variables
+   ```js
+     PORT=5001
+    MONGODB_URI=....
+    JWT_SECRET=.....
+    NODE_ENV=development
+    CLOUDINARY_CLOUD_NAME=.......
+    CLOUDINARY_API_KEY=......
+    CLOUDINARY_API_SECRET=....
+   
+   ```
+4. Start the Backend Server
+   ```sh
+   npm run start
+    # Runs on http://localhost:5001
+   ```
+   
+ 5. Install Frontend Dependencies
+     ```sh
+       cd ../frontend
+        npm install
+      ```
+---
+
+
 
 
 
