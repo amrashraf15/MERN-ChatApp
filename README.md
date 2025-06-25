@@ -15,13 +15,13 @@ A sleek, full-stack note-taking application built with MongoDB, Express, React, 
 
 - [Overview](#-overview)  
 - [Features](#-features)  
-- [Technologies](#-technologies)  
+- [Technologies](#-technologies)
+- [API Usage](#-api-usage)
+- [Project Structure](#-project-structure)   
 - [Installation](#-installation)  
-- [Project Structure](#-project-structure)  
-- [Frontend Usage](#-frontend-usage)  
-- [API Usage](#-api-usage)  
+
+ 
 - [Contact](#-contact)  
-- [Credits](#-credits)  
 
 ---
 ## 📖 Overview
@@ -33,7 +33,7 @@ A full-stack real-time chat application built with MERN, Socket.io, TailwindCSS,
 - Full RESTful API with rate-limiting and toast notifications  
 
 ---
-
+## Features
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
