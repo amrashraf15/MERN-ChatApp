@@ -42,3 +42,22 @@ A full-stack real-time chat application built with MERN, Socket.io, TailwindCSS,
 - 🐞 Error handling both on the server and on the client
 
 ---
+
+## 🛠 Technologies
+
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)  
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)  
+- ![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react)  
+- ![React DOM](https://img.shields.io/badge/React_DOM-20232A?style=for-the-badge&logo=react)  
+- ![React Router v7](https://img.shields.io/badge/React_Router_v7-CA4245?style=for-the-badge&logo=react-router)  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
+- ![DaisyUI](https://img.shields.io/badge/DaisyUI-F6D860?style=for-the-badge)  
+- ![Axios](https://img.shields.io/badge/Axios_1.10.0-5A29E4?style=for-the-badge&logo=axios)  
+- ![react-hot-toast](https://img.shields.io/badge/react--hot--toast_2.5.2-FF6F61?style=for-the-badge)  
+- ![lucide-react](https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge&logo=lucide)  
+- ![socket.io-client](https://img.shields.io/badge/Socket.IO_Client-010101?style=for-the-badge&logo=socket.io)  
+- ![zustand](https://img.shields.io/badge/Zustand-252525?style=for-the-badge&logo=zod)
+
+---
+
