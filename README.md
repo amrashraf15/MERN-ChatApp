@@ -18,9 +18,7 @@ A sleek, full-stack note-taking application built with MongoDB, Express, React, 
 - [Technologies](#-technologies)
 - [API Usage](#-api-usage)
 - [Project Structure](#-project-structure)   
-- [Installation](#-installation)  
-
- 
+- [Installation](#-installation)
 - [Contact](#-contact)  
 
 ---
